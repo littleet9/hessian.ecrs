@@ -1,5 +1,5 @@
 <ivy-module version="2.0">
-  <info organisation="com.caucho" module="resin-hessian" revision="@VERSION@">
+  <info organisation="com.caucho" module="resin-hessian" revision="4.0.60ecrs">
     <license name="Apache 1.0"/>
   </info>
 </ivy-module>

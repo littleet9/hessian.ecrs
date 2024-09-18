@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.caucho</groupId>
   <artifactId>hessian</artifactId>
-  <version>@VERSION@</version>
+  <version>4.0.60ecrs</version>
   
   <packaging>jar</packaging>
   <name>Hessian</name>
