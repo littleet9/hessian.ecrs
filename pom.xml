@@ -42,5 +42,10 @@
     <connection>scm:svn:svn://svn.caucho.com/home/svn/svnroot/resin/trunk/modules/hessian</connection>
     <url>svn://svn.caucho.com/home/svn/svnroot/resin/trunk/modules/hessian</url>
   </scm>
+
+    <build>
+      <sourceDirectory>src</sourceDirectory>
+    </build>
+
 </project>
 
